@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="versao">Versão 1.0</string>
+    <string name="label_nome">Nome</string>
+    <string name="hint_nome">Informe seu nome</string>
+    <string name="label_curso">Curso</string>
+    <string name="curso_android" translatable="false">Android</string>
+    <string name="curso_dev_web">Desenvolvimento Web</string>
+    <string name="curso_ios" translatable="false">iOS</string>
+    <string name="curso_java" translatable="false">Java</string>
+    <string name="curso_iot" translatable="false">IoT</string>
+    <string name="selecione_curso">Selecione uma opção</string>
+    <string name="label_periodo">Período</string>
+    <string name="label_manha">Manhã</string>
+    <string name="label_noite">Noite</string>
+    <string name="label_participar">Participar</string>
+    <string name="confirmacao">
+        <![CDATA[O sr(a) <strong>%1$s</strong> está participando
+        do curso <strong>%2$s</strong> no
+        período <strong>%3$s</strong>.]]>
+    </string>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_f5807a2f4ed07fa92fe594b5bd478a0a20f5e352\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_05125036eec7170d05bafafe49341c85e47d9ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_489ad6b95afda7d12abcca5d28f4507cf87dd7c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc5004150f2507c5e1d14cbfb5da074428361369">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08018d20ec0dd3554699877460c443a9579353c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_c70750e02d9c038d638bc3807c92d8def059f9b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3991b9e27475dd3eba31ce76bc538703a093ef5d">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3cda81d77218efc4da6070afac2501fd2b5b5f0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_0ec00a758976b111f600f6d94c59e77fc6936edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_95c68984887f9e3d0e47e445c0b1b1520ecb35f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_4a3bfa63cf56284dfc47bc869b2cb898db0fc6b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\opensource\Android_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_af7bd68888a261fc2c58c9317371ae232b07629a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_125669c18a1e7fbff5f13ed9470ae5d213acbb84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\28SCJ-Helena\ANDROID\Aula02\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_1e125e445d4998cddf257698e7f7f4b8ec636ada\classes.dex" />
+    </item>
+
+</items>

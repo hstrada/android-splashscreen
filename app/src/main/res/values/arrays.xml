@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cursos">
+        <item>@string/curso_android</item>
+        <item>@string/curso_dev_web</item>
+        <item>@string/curso_ios</item>
+        <item>@string/curso_java</item>
+        <item>@string/curso_iot</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="versao">Version 1.0</string>
+    <string name="label_curso">Course</string>
+    <string name="label_nome">Name</string>
+    <string name="hint_nome">Enter your name</string>
+    <string name="curso_dev_web">Web Development</string>
+</resources>
